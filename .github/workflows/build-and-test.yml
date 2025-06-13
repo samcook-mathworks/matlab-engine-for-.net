@@ -1,5 +1,5 @@
 # This workflow will setup .NET and MATLAB on the host machine
-name: Run MATLAB Interface to .NET Examples
+name: Run MATLAB Engine for .NET Examples
 
 on:
   push:
